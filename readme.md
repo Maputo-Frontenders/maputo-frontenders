@@ -55,6 +55,7 @@ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e
 :arrow_right: Tome cuidado com flood, ninguém gosta de spam.
 
 :arrow_right: Explore as reactions. Assim você evita mensagens desnecessárias.
+
 <img src="assets/reactions.png" width="250px">
 
 :arrow_right: Deixe suas mensagens mais claras e objetivas
