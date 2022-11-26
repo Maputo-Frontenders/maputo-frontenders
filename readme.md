@@ -1,4 +1,4 @@
-<img src="assets/mpt-frontenders.png" style="color: #121214" width="220px" />
+<img src="assets/mpt-frontenders.png" style="color: #121214"/>
 
 <p>
   A maior comunidade de desenvolvedores frontend em Moçambique
