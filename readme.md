@@ -56,6 +56,7 @@ Para nos mantermos fortes, unidos e organizados, é preciso que algumas regras e
 
 :arrow_right: Explore as reactions. Assim você evita mensagens desnecessárias.
 ![Reactions](assets/reactions.png)
+<img src='assets/reactions.png' alt="whatspp reactions"s>
 
 :arrow_right: Deixe suas mensagens mais claras e objetivas
 
